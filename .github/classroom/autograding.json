@@ -1,0 +1,204 @@
+{
+  "tests": [
+    {
+      "name": "Module 0.2",
+      "setup": "",
+      "run": "python3 check.py \"Module 0.2\"",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Module 1.0",
+      "setup": "",
+      "run": "python \"*1.0*\"",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Module 1.1",
+      "setup": "",
+      "run": "python check.py \"*1.1*\"",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Module 1.2",
+      "setup": "",
+      "run": "python check.py \"*1.2*\"",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Module 1.3",
+      "setup": "",
+      "run": "python check.py \"*1.3*\"",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Module 2.0",
+      "setup": "",
+      "run": "python check.py \"*2.0*\"",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Module 2.1",
+      "setup": "",
+      "run": "python check.py \"*2.1*\"",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Module 2.2",
+      "setup": "",
+      "run": "python check.py \"*2.2*\"",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Module 2.3",
+      "setup": "",
+      "run": "python check.py \"*2.3*\"",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Module 2.4",
+      "setup": "",
+      "run": "python check.py \"*2.4*\"",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Module 3.0",
+      "setup": "",
+      "run": "python check.py \"*3.0*\"",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Module 3.1",
+      "setup": "",
+      "run": "python check.py \"*3.1*\"",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Module 3.2",
+      "setup": "",
+      "run": "python check.py \"*3.2*\"",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Module 3.3",
+      "setup": "",
+      "run": "python check.py \"*3.3*\"",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Module 3.4",
+      "setup": "",
+      "run": "python check.py \"*3.4*\"",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Module 4.0",
+      "setup": "",
+      "run": "python check.py \"*4.0*\"",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Module 4.1",
+      "setup": "",
+      "run": "python check.py \"*4.1*\"",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Module 4.2",
+      "setup": "",
+      "run": "python check.py \"*4.2*\"",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Module 4.3",
+      "setup": "",
+      "run": "python check.py \"*4.3*\"",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Module 4.4",
+      "setup": "",
+      "run": "python check.py \"*4.4*\"",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
